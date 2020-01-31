@@ -6,7 +6,7 @@ def first_challenge
         age: "53"
       }
       matriarch: {
-        name: "Lady Montague"
+        name: "Lady Montague",
         age: "54"
       }
       hero: {
@@ -41,8 +41,8 @@ def first_challenge
         {name: "Steven",
         age: "30",
         attitude: "confused"},
-        {name: "Nurse"
-        age: "44"
+        {name: "Nurse",
+        age: "44",
         attitude: "worried"
         ]
      }
